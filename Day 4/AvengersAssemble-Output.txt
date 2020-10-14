@@ -1,0 +1,70 @@
+Avengers Initiative:
+Avenger Name: Captain America
+Enter the Power: Superhuman Ability
+Enter the Weapon: Vibranium Shield
+Enter the Planet/Realm: Earth
+Enter the age: 93
+
+Avenger Name: Thor Odinson
+Enter the Power: Thunder Manipulation
+Enter the Weapon: Mjolnir
+Enter the Planet/Realm: Asgard
+Enter the age: 1500
+
+Avenger Name: Iron Man
+Enter the Power: Genius Level Intellect
+Enter the Weapon: Iron Suit
+Enter the Planet/Realm: Earth
+Enter the age: 48
+
+Avenger Name: Doctor Strange
+Enter the Power: Mystic Art
+Enter the Weapon: Eye of Agamotto/Time Stone
+Enter the Planet/Realm: Earth
+Enter the age: 41
+
+Avenger Name: Spider-Man
+Enter the Power: Spider Sense
+Enter the Weapon: Web Shooters
+Enter the Planet/Realm: Earth
+Enter the age: 28
+
+Avengers Assemble...
+
+Avenger: Captain America
+Power: Superhuman Ability
+Weapon: Vibranium Shield
+Age: 93
+Planet: Earth
+
+
+Avenger: Thor Odinson
+Power: Thunder Manipulation
+Weapon: Mjolnir
+Age: 1500
+Planet: Asgard
+
+
+Avenger: Iron Man
+Power: Genius Level Intellect
+Weapon: Iron Suit
+Age: 48
+Planet: Earth
+
+
+Avenger: Doctor Strange
+Power: Mystic Art
+Weapon: Eye of Agamotto/Time Stone
+Age: 41
+Planet: Earth
+
+
+Avenger: Spider-Man
+Power: Spider Sense
+Weapon: Web Shooters
+Age: 28
+Planet: Earth
+
+
+Process finished with exit code 0
+
