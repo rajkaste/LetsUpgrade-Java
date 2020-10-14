@@ -1,0 +1,5 @@
+Some nos: 
+1 2 3 4 5 
+Odd nos: 
+1 3 5 
+Process finished with exit code 0
