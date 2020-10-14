@@ -10,11 +10,9 @@ public class SumArray {
         int sum=0;
 
         System.out.println("Enter 5 nos.:");
-        for (int i=0;i<arr.length;i++){
-            arr[i] = sc.nextInt();
-        }
 
         for (int i=0;i<arr.length;i++){
+            arr[i] = sc.nextInt();
             sum += arr[i];
         }
 
