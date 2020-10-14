@@ -1,0 +1,8 @@
+Enter 5 nos.:
+10
+15
+60
+34
+42
+Sum of all nos.: 161
+Process finished with exit code 0
