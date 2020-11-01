@@ -1,2 +1,2 @@
 ## Check Main.java 
-Array of Objects created
+Array of Objects of each type of Employee created.
